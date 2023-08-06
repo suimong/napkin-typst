@@ -12,6 +12,7 @@ DRAFT-*.tex
 !cse5.asy
 **/*.out
 **/*.pdf
+!An Infinitely Large Napkin.pdf
 
 **/*.aux
 **/*.bbl
